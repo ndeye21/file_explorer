@@ -1,0 +1,16 @@
+.cadre{
+    border: 5px double lightgray ;
+    height: 60px;
+
+}
+.cadre1{
+    border: 5px double lightgray ;
+    height: 500px;
+    width: 1335px;
+
+}
+#trait{
+    border-right: 5px double lightgray ;
+    height: 490px;
+
+}
